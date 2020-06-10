@@ -15,5 +15,13 @@
   "license": "MIT",
   "bin": {
     "random-msg-test": "bin/global.js"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauroquinteros/package-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mauroquinteros/package-npm/issues"
+  },
+  "homepage": "https://github.com/mauroquinteros/package-npm#readme"
 }
